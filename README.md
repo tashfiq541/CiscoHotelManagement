@@ -41,7 +41,9 @@ Configure port security to IT-dept switch to allow only Test-PC to access port f
 6. Configuring Inter-VLAN Routing (Router on a stick).
 7. Configuring DHCP Server (Router as the DHCP Server).
 8. Configuring WLAN or wireless network (Cisco Access Point).
-9. Host Device Configurations.
-10. Test and Verifying Network Communication.
+9. Configuring OSPF as the routing protocol.
+10. Host Device Configurations.
+11. Test and Verifying Network Communication.
 ## Network Topology Created
+![CiscoHotel](https://user-images.githubusercontent.com/69791359/233853733-91660b32-28bb-4eb5-8826-8cbc65eb3f6e.png)
 
